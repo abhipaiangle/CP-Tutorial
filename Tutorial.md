@@ -21,6 +21,7 @@ With that set, let's solve some basic problems that don't require anything but l
 * [**1294 A**](https://codeforces.com/contest/1294/problem/A)
 [**Soln**](https://codeforces.com/contest/1294/my)
 * [**1288 A**](https://codeforces.com/contest/1288/problem/A)
+[**Soln**](https://codeforces.com/contest/1288/my)
 * [**1339 A**](https://codeforces.com/contest/1339/problem/A)
 
 This should give you an idea regarding how the judges work and how to solve basic problems. If you get stuck at any point of time click on the tutorial in the bottom right corner and you will get hints and solutions.
