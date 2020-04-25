@@ -19,6 +19,7 @@ To delve deeper, refer [**this**](https://www.geeksforgeeks.org/knowing-the-comp
 With that set, let's solve some basic problems that don't require anything but logic. We call these problems 'ad-hoc'. These are probelms on Codeforces, so sign up on codeforces first. And then solve these questions!
 
 * [**1294 A**](https://codeforces.com/contest/1294/problem/A)
+[**Soln**](https://codeforces.com/contest/1294/my)
 * [**1288 A**](https://codeforces.com/contest/1288/problem/A)
 * [**1339 A**](https://codeforces.com/contest/1339/problem/A)
 
